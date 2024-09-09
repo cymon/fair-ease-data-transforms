@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+.env
+*.swp
+fair-ease-data-transforms.code-workspace
+.mypy_cache
