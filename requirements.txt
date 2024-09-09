@@ -1,6 +1,0 @@
-duckdb==1.0.0
-minio==7.2.7
-numpy==2.1.1
-pandas==2.2.2
-pandasql==0.7.3
-timeit_decorator==1.1.1
