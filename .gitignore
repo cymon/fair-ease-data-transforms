@@ -6,3 +6,4 @@ poetry.lock
 fair-ease-data-transforms.code-workspace
 .mypy_cache
 credentials.json
+.vscode
