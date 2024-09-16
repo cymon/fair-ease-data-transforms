@@ -19,6 +19,7 @@ pyarrow = "^17.0.0"
 [tool.poetry.group.dev.dependencies]
 black = {extras = ["jupyter"], version = "^24.8.0"}
 pre-commit = "^3.8.0"
+ruff = "^0.6.5"
 
 [build-system]
 requires = ["poetry-core"]
