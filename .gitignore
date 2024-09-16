@@ -8,3 +8,4 @@ fair-ease-data-transforms.code-workspace
 credentials.json
 .vscode
 .pre-commit-config.yaml
+.ruff_cache
