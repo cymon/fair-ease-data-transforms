@@ -21,6 +21,26 @@ black = {extras = ["jupyter"], version = "^24.8.0"}
 pre-commit = "^3.8.0"
 ruff = "^0.6.5"
 
+[tool.ruff.lint]
+extend-select = [
+    # pyupgrade 
+    "UP",
+    # pydocstyle
+    "E",   
+    "W",
+    # pyflakes
+    "F",
+    # flake8
+    "S",
+    "B",
+    "SIM",
+    # isort
+    "I",
+]
+ignore = [
+    "E501", # long lines
+    ]
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
