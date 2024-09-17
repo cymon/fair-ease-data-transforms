@@ -1,11 +1,9 @@
 .ipynb_checkpoints/*
 validation_errors/*
-poetry.lock
 .venv
 *.swp
 fair-ease-data-transforms.code-workspace
 .mypy_cache
 credentials.json
 .vscode
-.pre-commit-config.yaml
 .ruff_cache
