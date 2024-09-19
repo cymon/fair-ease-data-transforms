@@ -1,5 +1,4 @@
-.ipynb_checkpoints/*
-validation_errors/*
+.ipynb_checkpoints
 .venv
 *.swp
 fair-ease-data-transforms.code-workspace
@@ -7,3 +6,4 @@ fair-ease-data-transforms.code-workspace
 credentials.json
 .vscode
 .ruff_cache
+src/__pycache__
